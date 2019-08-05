@@ -3,4 +3,4 @@
 * Brian
 * Amandeep
 * Danny
-Aaron V.
+* Aaron V.
